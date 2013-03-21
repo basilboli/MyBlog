@@ -1,4 +1,4 @@
 MyBlog
 ======
 
-my blog
+my blog using octopress
