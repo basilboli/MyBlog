@@ -1,0 +1,13 @@
+---
+layout: post
+title: "c00l lnx #1"
+date: 2013-03-15 19:58
+comments: true
+categories: 
+---
+1. Про [смерть](http://googleblog.blogspot.fr/2013/03/a-second-spring-of-cleaning.html) Google reader не писав тільки лінивий. [Ось](http://blog.superfeedr.com/state-of-readers/) декілька альтернатив. Особисто я використовую [feedly](http://feedly.com).   
+2. Нарив чудесний [сайтик](http://what-if.xkcd.com), зміст якого полягає у відповідях на нестандартні питання. Наприклад, : [Коли пропускна спроможність Fedex перевищить пропускну спроможність інтернету??](http://what-if.xkcd.com/31/). Для тих, хто нібумбум в англосаксонськійОсь [тут](http://chtoes.li/) можна знайти деякі переклади російською.
+3. Чергова історія про небезпеку для приватності, яку несе в собі Google streetview: Манчестер. [Дівча "легкої поведінки" в процесі виконання своїх службових обов"язків](http://gawker.com/5990572/google-streetview-captures-prostitute-giving-public-handjob-in-manchester-england). Ну і згадаймо [історію](http://gawker.com/5985400/woman-breaks-up-with-fiance-after-finding-him-with-another-girl-on-russian-google-maps) про росіянку, яка на яндекс картах впізнала свого бойфренда в оточенні іншої бабенції і сказала йому "this is the end!". Будьте уважні і мийте руки перед обідом!
+
+
+
