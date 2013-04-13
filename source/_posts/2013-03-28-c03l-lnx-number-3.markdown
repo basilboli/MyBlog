@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Покупка на 0.03 інстаграм долларів"
+date: 2013-03-28 17:59
+comments: true
+categories: 
+---
+
+В той час як Google [купує](http://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/) серйозні технологічні стартапи в machine learning, Інтернетами пролетіла чергова аля [instagram](http://mashable.com/2012/04/09/facebook-instagram-buy/) новина, як Yahoo розкидується бабулєсом і купив не [чисто](http://hackingdistributed.com/2013/03/26/summly/) технологічний [summly](http://summly.com). Покупка для мене трохи неоднозначна , summly схожий на звичайну смоктальну конфету обгорнуту в яскравий папірець, гарно пропіарену ніби вона шоколадна і з горішком всередині, в який інвестували "неостанні" в цьому світі інвестори, такі як Йоко Оно, Стівен Фрай чи сам Аштон Катчер/Ештон Кутчер ?! Як бачимо, чисто технолонічні стартапи все ще продаються і [Ренесанс Hardware](http://www.paulgraham.com/hw.html) ще не повністю заполонив терени інтернету.

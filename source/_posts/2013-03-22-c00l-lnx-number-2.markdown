@@ -1,0 +1,12 @@
+---
+layout: post
+title: "c00l lnx #2"
+date: 2013-03-22 00:27
+comments: true
+categories: 
+---
+1. Красива [інфографіка google analytics](http://thenextweb.com/apps/2013/03/21/visual-ly/) від компанії [Visual.ly](http://visual.ly), тобто можливість отримувати загальні показники (наприклад раз в тиждень) прямо на пошту.
+
+2. Славнозвісні скайнет, термінатор і судний день  все ближче і ближче. [Експеримент](http://realitypod.com/2010/10/robot-programmed-to-fall-in-love-with-a-girl-goes-too-far/) в  Akimu Robotic Research, що мав за мету навчити залізяку емоціям, закінчився майже плачевно. Козаки з цього дослідницького центру явно часу не гають і намагаються зліпити добрих роботів. Що з цього вийде ми і так знаємо, правда?! =)
+
+3. Знову [сльози](http://www.forbes.com/sites/ewanspence/2013/03/21/and-that-google-is-how-you-lose-the-influencers/) відносно запланованого прикриття сервісу Google Reader в липні цього року. Я особисто згодний з [Марко](http://www.marco.org/2013/03/21/thursday-sandwich) - "не тримайте всі яйця в закритих продуктах, а якщо тримаєте - будьте готові піти в будь-який момент". 
